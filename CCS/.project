@@ -26,9 +26,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Src</name>
+			<name>Main</name>
 			<type>2</type>
-			<location>E:/Hanshow_epd/FW/HanshowEpdClock/Src</location>
+			<locationURI>PARENT-1-PROJECT_LOC/Src/Main</locationURI>
+		</link>
+		<link>
+			<name>Module</name>
+			<type>2</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Src/Module</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
